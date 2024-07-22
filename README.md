@@ -1,2 +1,2 @@
-# npri-db
-Scripts to access, copy, and create new views of NPRI, Stat Can, and other data
+# pollutant_allocation
+GIS tools for crudely estimating the distribution of NPRI-reported pollutants and summarizing them by Census Dissemination Area
